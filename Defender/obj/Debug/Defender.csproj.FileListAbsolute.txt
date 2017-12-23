@@ -1,0 +1,9 @@
+c:\users\andreas\documents\visual studio 2015\Projects\Defender\Defender\bin\Debug\Defender.exe.config
+c:\users\andreas\documents\visual studio 2015\Projects\Defender\Defender\bin\Debug\Defender.exe
+c:\users\andreas\documents\visual studio 2015\Projects\Defender\Defender\bin\Debug\Defender.pdb
+c:\users\andreas\documents\visual studio 2015\Projects\Defender\Defender\obj\Debug\Defender.csprojResolveAssemblyReference.cache
+c:\users\andreas\documents\visual studio 2015\Projects\Defender\Defender\obj\Debug\Defender.Properties.Resources.resources
+c:\users\andreas\documents\visual studio 2015\Projects\Defender\Defender\obj\Debug\Defender.csproj.GenerateResource.Cache
+c:\users\andreas\documents\visual studio 2015\Projects\Defender\Defender\obj\Debug\Defender.exe
+c:\users\andreas\documents\visual studio 2015\Projects\Defender\Defender\obj\Debug\Defender.pdb
+C:\Users\andreas\documents\visual studio 2015\Projects\Defender\Defender\obj\Debug\Defender.Main.resources

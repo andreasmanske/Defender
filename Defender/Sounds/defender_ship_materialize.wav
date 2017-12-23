@@ -1,0 +1,25 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+	<head>
+		<link rel="stylesheet" href="/redstyle.css" type="text/css" />
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+		<title>Error #404 - Document Not Found: /dpsoundz/defender_ship_materialize.wav</title>
+	</head>
+	<body>
+		<div id="logoTime"><a href="http://www.digitpress.com/"><img src="http://www.digitpress.com/images/dpbanner.gif" width="643" height="90" alt="Digital Press logo" /></a></div>
+		<div class="headerLine">Error #404 - Document Not Found</div>
+
+		<p>There was a problem with the resource you requested.  That happens sometimes.</p>
+
+		<p>Problem: The requested resource &mdash; /dpsoundz/defender_ship_materialize.wav &mdash; could not be found on this server.  Please verify the address is correct and try again.</p>
+
+		<p>Gamer translation: Thank you Mario! But our princess is in another castle!</p>
+
+		<p>You might want to try visiting the <a href="/">Digital Press home page</a>.  Then again you can do as you please.  Perhaps even fire up a classic console with your favorite game.  Get a nice drink.  Invite a few friends over.  Plug in the extra controllers, get some multiplayer gaming happening.  You know - the good times.</p>
+
+		<hr />
+
+		<p>Technical information: <tt>ERROR 0xCalmTheBeefMin</tt></p>
+	</body>
+</html>
+
